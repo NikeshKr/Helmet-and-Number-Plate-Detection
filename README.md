@@ -29,7 +29,7 @@ This repository contains code for object detection using YOLOv3 and helmet recog
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/NikeshKr/Helmet-and-Number-Plate-Detection.git
    cd yourrepository
    ```
 
