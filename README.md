@@ -57,8 +57,4 @@ This repository contains code for object detection using YOLOv3 and helmet recog
 
 The `output.avi` file will contain the processed video with object detection and helmet recognition visualized.
 
-**Note**: Adjust the confidence thresholds, file paths, and other parameters in the script as needed.
 
-```
-
-Replace `yourusername` and `yourrepository` with your GitHub username and repository name. Feel free to modify the content and structure according to your preferences.
